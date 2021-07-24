@@ -1,0 +1,19 @@
+{
+  "name": "breatheanimationapp",
+  "version": "1.0.0",
+  "description": "Node.js (Express) breath animatation app with AWS Elastic Beanstalk",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BennettElisa/breatheanimationapp.git"
+  },
+  "author": "Elisa Bennett",
+  "license": "MIT-0",
+  "bugs": {
+    "url": "https://github.com/BennettElisa/breatheanimationapp/issues"
+  },
+  "homepage": "https://github.com/BennettElisa/breatheanimationapp#readme"
+}
